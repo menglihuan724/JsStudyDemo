@@ -1,0 +1,21 @@
+{
+  "presets": [
+    "react-app"
+  ],
+  "plugins": [
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "style": "css"
+      },"one"
+    ],
+    [
+      "import",
+      {
+        "libraryName": "antd-mobile",
+        "style": "css"
+      },"two"
+    ]
+  ]
+}
